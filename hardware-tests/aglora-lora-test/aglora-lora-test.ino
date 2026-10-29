@@ -1,6 +1,5 @@
 /*
-Ebyte LoRa TEST for AGLoRa device
-https://github.com/Udj13/AGLoRa/
+Ebyte LoRa test for the tracker
 */
 #include "Arduino.h"
 

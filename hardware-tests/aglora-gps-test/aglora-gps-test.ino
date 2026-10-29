@@ -1,6 +1,5 @@
 /*
-GPS TEST for AGLoRa device
-https://github.com/Udj13/AGLoRa/
+GPS test for the tracker
 */
 #include <SoftwareSerial.h>
 
